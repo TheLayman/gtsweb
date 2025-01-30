@@ -2,7 +2,7 @@
     id="contact"
     class=" sm:py-22 bg-[#11243C] border-t border-solid border-violet-950 flex flex-col gap-4 sm:gap-8 justify-center items-center"
 >   
-<h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
+<h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl py-6">
     Admissions open for <span class="poppins text-violet-400">2025-2026</span>
 </h3>
     <p class="px-4 py-2 bg-white text-slate-950 font-medium">
@@ -42,6 +42,6 @@
             <br/>
             <b class="pr-2"> </b>
         </p>
-        <p>© George Veneel Dogga | Georgetown School, Gangubudi</p>
+        <p class="py-2">© George Veneel Dogga | Georgetown School, Gangubudi</p>
     </div>
 </footer>
